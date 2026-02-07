@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "かさなる影",
+  "base_artist": "Hearts Grow",
+  "createdAt": "2026-02-07T07:50:14.039219Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "かさなる影",
+      "artist": "HEARTS GROW",
+      "has_synced": true,
+      "path": "select/01_かさなる影_HEARTS_GROW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "かさなる影",
+      "artist": "Hearts Grow",
+      "has_synced": true,
+      "path": "select/02_かさなる影_Hearts_Grow.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "かさなる影",
+      "artist": "Hearts Grow",
+      "has_synced": true,
+      "path": "select/03_かさなる影_Hearts_Grow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かさなる影",
+      "artist": "Hearts Grow",
+      "has_synced": false,
+      "path": "select/pl_01_かさなる影_Hearts_Grow.txt"
+    }
+  ]
+}
